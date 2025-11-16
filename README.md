@@ -1,17 +1,17 @@
 # ¡Hola! Soy Axel Oreamuno  
 ### Desarrollador Full Stack | Ingeniero en Sistemas de Información  
-Puntarenas, Costa Rica  |  Correo personal: oreamuno.axel18@gmail.com  
+Puntarenas, Costa Rica  |  Correo: oreamuno.axel18@gmail.com  
 
 ---
 
 ## Acerca de mí  
 Apasionado por construir soluciones completas que integran **frontend y backend**.  
 Disfruto trabajar en proyectos que resuelven problemas reales, automatizar procesos y experimentar con nuevas tecnologías.  
-Mi enfoque es crear software bien estructurado, escalable y fácil de mantener.
+Mi enfoque es crear software estructurado, escalable y fácil de mantener.
 
 ---
 
-# 🛠️ Stack Tecnológico
+# Stack Tecnológico
 
 ## 🔹 Lenguajes  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,7 +39,6 @@ Mi enfoque es crear software bien estructurado, escalable y fácil de mantener.
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -57,10 +56,11 @@ Mi enfoque es crear software bien estructurado, escalable y fácil de mantener.
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🌟 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
 ## 🤖 Sistema de Navegación y Control de Robot Autónomo  
 **YOLOv8 | OpenCV | Whisper ASR | Gemini API | Python**  
@@ -85,11 +85,3 @@ Clasificación automática de ingredientes + traducción + recomendación de rec
 App móvil multiplataforma con sincronización en tiempo real y autenticación con Google.
 
 ---
-
-# 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portafolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-💡 *“Siempre aprendiendo, siempre construyendo”*
