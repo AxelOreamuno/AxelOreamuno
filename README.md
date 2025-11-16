@@ -60,7 +60,7 @@ Mi enfoque es crear software estructurado, escalable y fácil de mantener.
 
 ---
 
-# 🚀 Proyectos Destacados
+# Proyectos Destacados
 
 ## 🤖 Sistema de Navegación y Control de Robot Autónomo  
 **YOLOv8 | OpenCV | Whisper ASR | Gemini API | Python**  
