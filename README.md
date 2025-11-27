@@ -62,15 +62,21 @@ Mi enfoque es crear software estructurado, escalable y fácil de mantener.
 
 # Proyectos Destacados
 
-## 🤖 Sistema de Navegación y Control de Robot Autónomo  
-**YOLOv8 | OpenCV | Whisper ASR | Gemini API | Python**  
-Sistema completo para navegación autónoma con visión artificial, comandos por voz y control en tiempo real vía serial.
-
----
-
 ## 📦 Eligam – Sistema Web de Inventario  
 **Next.js | Tailwind CSS | MySQL | NextAuth**  
 Sistema web con autenticación, dashboards, carga automática de facturas y gestión de proveedores/productos.
+
+Demo: https://demo-inventario-de-repuestos.vercel.app
+
+Repositorio: https://github.com/AxelOreamuno/Demo-inventario-de-repuestos
+
+Credenciales de prueba incluidas en el README
+
+---
+
+## 🤖 Sistema de Navegación y Control de Robot Autónomo  
+**YOLOv8 | OpenCV | Whisper ASR | Gemini API | Python**  
+Sistema completo para navegación autónoma con visión artificial, comandos por voz y control en tiempo real vía serial.
 
 ---
 
